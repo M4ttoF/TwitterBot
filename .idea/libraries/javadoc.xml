@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="javadoc">
+    <CLASSES />
+    <JAVADOC>
+      <root url="file://$PROJECT_DIR$/../twitter4j/twitter4j-async/javadoc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../twitter4j/twitter4j-async/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../twitter4j/twitter4j-async/src/test/java" />
+    </SOURCES>
+  </library>
+</component>
